@@ -19,4 +19,4 @@ type —-VARCHAR (4096)COLLATE utf8mb4_general_ci
 status —-VARCHAR (4096) COLLATE utf8mb4_general_ci
 
 
-// if you want to see preview of this bot you can check "@doshnamdanbot"
+// if you want to see preview of this bot you can check "@doshnamdanbot"(offline)
